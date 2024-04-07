@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "1",
+    "sortname": "AF",
+    "name": "Afghanistan",
+    "phonecode": "93",
+    "emoji": "🇦🇫"
+  },
+  {
+    "id": "2",
+    "sortname": "AL",
+    "name": "Albania",
+    "phonecode": "355",
+    "emoji": "🇦🇱"
+  },
+  {
+    "id": "3",
+    "sortname": "DZ",
+    "name": "Algeria",
+    "phonecode": "213",
+    "emoji": "🇩🇿"
+  },
+  {
+    "id": "4",
+    "sortname": "AS",
+    "name": "American Samoa",
+    "phonecode": "1684",
+    "emoji": "🇦🇸"
+  },
+  {
+    "id": "5",
+    "sortname": "AD",
+    "name": "Andorra",
+    "phonecode": "376",
+    "emoji": "🇦🇩"
+  },
+  {
+    "id": "6",
+    "sortname": "AO",
+    "name": "Angola",
+    "phonecode": "244",
+    "emoji": "🇦🇴"
+  },
+  {
+    "id": "7",
+    "sortname": "AI",
+    "name": "Anguilla",
+    "phonecode": "1264",
+    "emoji": "🇦🇮"
+  },
+  {
+    "id": "8",
+    "sortname": "AQ",
+    "name": "Antarctica",
+    "phonecode": "0",
+    "emoji": "🇦🇶"
+  },
+  {
+    "id": "9",
+    "sortname": "AG",
+    "name": "Antigua And Barbuda",
+    "phonecode": "1268",
+    "emoji": "🇦🇬"
+  },
+  {
+    "id": "10",
+    "sortname": "AR",
+    "name": "Argentina",
+    "phonecode": "54",
+    "emoji": "🇦🇷"
+  },
+  {
+    "id": "11",
+    "sortname": "AM",
+    "name": "Armenia",
+    "phonecode": "374",
+    "emoji": "🇦🇲"
+  },
+  {
+    "id": "12",
+    "sortname": "AW",
+    "name": "Aruba",
+    "phonecode": "297",
+    "emoji": "🇦🇼"
+  },
+  {
+    "id": "13",
+    "sortname": "AU",
+    "name": "Australia",
+    "phonecode": "61",
+    "emoji": "🇦🇺"
+  },
+  {
+    "id": "14",
+    "sortname": "AT",
+    "name": "Austria",
+    "phonecode": "43",
+    "emoji": "🇦🇹"
+  },
+  {
+    "id": "15",
+    "sortname": "AZ",
+    "name": "Azerbaijan",
+    "phonecode": "994",
+    "emoji": "🇦🇿"
+  },
+  {
+    "id": "16",
+    "sortname": "BS",
+    "name": "Bahamas The",
+    "phonecode": "1242",
+    "emoji": "🇧🇸"
+  },
+  {
+    "id": "17",
+    "sortname": "BH",
+    "name": "Bahrain",
+    "phonecode": "973",
+    "emoji": "🇧🇭"
+  },
+  {
+    "id": "18",
+    "sortname": "BD",
+    "name": "Bangladesh",
+    "phonecode": "880",
+    "emoji": "🇧🇩"
+  },
+  {
+    "id": "19",
+    "sortname": "BB",
+    "name": "Barbados",
+    "phonecode": "1246",
+    "emoji": "🇧🇧"
+  },
+  {
+    "id": "20",
+    "sortname": "BY",
+    "name": "Belarus",
+    "phonecode": "375",
+    "emoji": "🇧🇾"
+  },
+  {
+    "id": "21",
+    "sortname": "BE",
+    "name": "Belgium",
+    "phonecode": "32",
+    "emoji": "🇧🇪"
+  },
+  {
+    "id": "22",
+    "sortname": "BZ",
+    "name": "Belize",
+    "phonecode": "501",
+    "emoji": "🇧🇿"
+  },
+  {
+    "id": "23",
+    "sortname": "BJ",
+    "name": "Benin",
+    "phonecode": "229",
+    "emoji": "🇧🇯"
+  },
+  {
+    "id": "24",
+    "sortname": "BM",
+    "name": "Bermuda",
+    "phonecode": "1441",
+    "emoji": "🇧🇲"
+  },
+  {
+    "id": "25",
+    "sortname": "BT",
+    "name": "Bhutan",
+    "phonecode": "975",
+    "emoji": "🇧🇹"
+  },
+  {
+    "id": "26",
+    "sortname": "BO",
+    "name": "Bolivia",
+    "phonecode": "591",
+    "emoji": "🇧🇴"
+  },
+  {
+    "id": "27",
+    "sortname": "BA",
+    "name": "Bosnia and Herzegovina",
+    "phonecode": "387",
+    "emoji": "🇧🇦"
+  },
+  {
+    "id": "28",
+    "sortname": "BW",
+    "name": "Botswana",
+    "phonecode": "267",
+    "emoji": "🇧🇼"
+  },
+  {
+    "id": "29",
+    "sortname": "BV",
+    "name": "Bouvet Island",
+    "phonecode": "0",
+    "emoji": "🇧🇻"
+  },
+  {
+    "id": "30",
+    "sortname": "BR",
+    "name": "Brazil",
+    "phonecode": "55",
+    "emoji": "🇧🇷"
+  },
+  {
+    "id": "31",
+    "sortname": "IO",
+    "name": "British Indian Ocean Territory",
+    "phonecode": "246",
+    "emoji": "🇮🇴"
+  },
+  {
+    "id": "32",
+    "sortname": "BN",
+    "name": "Brunei",
+    "phonecode": "673",
+    "emoji": "🇧🇳"
+  },
+  {
+    "id": "33",
+    "sortname": "BG",
+    "name": "Bulgaria",
+    "phonecode": "359",
+    "emoji": "🇧🇬"
+  },
+  {
+    "id": "34",
+    "sortname": "BF",
+    "name": "Burkina Faso",
+    "phonecode": "226",
+    "emoji": "🇧🇫"
+  },
+  {
+    "id": "35",
+    "sortname": "BI",
+    "name": "Burundi",
+    "phonecode": "257",
+    "emoji": "🇧🇮"
+  },
+  {
+    "id": "36",
+    "sortname": "KH",
+    "name": "Cambodia",
+    "phonecode": "855",
+    "emoji": "🇰🇭"
+  },
+  {
+    "id": "37",
+    "sortname": "CM",
+    "name": "Cameroon",
+    "phonecode": "237",
+    "emoji": "🇨🇲"
+  },
+  {
+    "id": "38",
+    "sortname": "CA",
+    "name": "Canada",
+    "phonecode": "1",
+    "emoji": "🇨🇦"
+  },
+  {
+    "id": "39",
+    "sortname": "CV",
+    "name": "Cape Verde",
+    "phonecode": "238",
+    "emoji": "🇨🇻"
+  },
+  {
+    "id": "40",
+    "sortname": "KY",
+    "name": "Cayman Islands",
+    "phonecode": "1345",
+    "emoji": "🇰🇾"
+  },
+  {
+    "id": "41",
+    "sortname": "CF",
+    "name": "Central African Republic",
+    "phonecode": "236",
+    "emoji": "🇨🇫"
+  },
+  {
+    "id": "42",
+    "sortname": "TD",
+    "name": "Chad",
+    "phonecode": "235",
+    "emoji": "🇹🇩"
+  },
+  {
+    "id": "43",
+    "sortname": "CL",
+    "name": "Chile",
+    "phonecode": "56",
+    "emoji": "🇨🇱"
+  },
+  {
+    "id": "44",
+    "sortname": "CN",
+    "name": "China",
+    "phonecode": "86",
+    "emoji": "🇨🇳"
+  },
+  {
+    "id": "45",
+    "sortname": "CX",
+    "name": "Christmas Island",
+    "phonecode": "61",
+    "emoji": "🇨🇽"
+  },
+  {
+    "id": "46",
+    "sortname": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "phonecode": "672",
+    "emoji": "🇨🇨"
+  },
+  {
+    "id": "47",
+    "sortname": "CO",
+    "name": "Colombia",
+    "phonecode": "57",
+    "emoji": "🇨🇴"
+  },
+  {
+    "id": "48",
+    "sortname": "KM",
+    "name": "Comoros",
+    "phonecode": "269",
+    "emoji": "🇰🇲"
+  },
+  {
+    "id": "49",
+    "sortname": "CG",
+    "name": "Congo",
+    "phonecode": "242",
+    "emoji": "🇨🇬"
+  },
+  {
+    "id": "50",
+    "sortname": "CD",
+    "name": "Congo The Democratic Republic Of The",
+    "phonecode": "242",
+    "emoji": "🇨🇩"
+  },
+  {
+    "id": "51",
+    "sortname": "CK",
+    "name": "Cook Islands",
+    "phonecode": "682",
+    "emoji": "🇨🇰"
+  },
+  {
+    "id": "52",
+    "sortname": "CR",
+    "name": "Costa Rica",
+    "phonecode": "506",
+    "emoji": "🇨🇷"
+  },
+  {
+    "id": "53",
+    "sortname": "CI",
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "phonecode": "225",
+    "emoji": "🇨🇮"
+  },
+  {
+    "id": "54",
+    "sortname": "HR",
+    "name": "Croatia (Hrvatska)",
+    "phonecode": "385",
+    "emoji": "🇭🇷"
+  },
+  {
+    "id": "55",
+    "sortname": "CU",
+    "name": "Cuba",
+    "phonecode": "53",
+    "emoji": "🇨🇺"
+  },
+  {
+    "id": "56",
+    "sortname": "CY",
+    "name": "Cyprus",
+    "phonecode": "357",
+    "emoji": "🇨🇾"
+  },
+  {
+    "id": "57",
+    "sortname": "CZ",
+    "name": "Czech Republic",
+    "phonecode": "420",
+    "emoji": "🇨🇿"
+  },
+  {
+    "id": "58",
+    "sortname": "DK",
+    "name": "Denmark",
+    "phonecode": "45",
+    "emoji": "🇩🇰"
+  },
+  {
+    "id": "59",
+    "sortname": "DJ",
+    "name": "Djibouti",
+    "phonecode": "253",
+    "emoji": "🇩🇯"
+  },
+  {
+    "id": "60",
+    "sortname": "DM",
+    "name": "Dominica",
+    "phonecode": "1767",
+    "emoji": "🇩🇲"
+  },
+  {
+    "id": "61",
+    "sortname": "DO",
+    "name": "Dominican Republic",
+    "phonecode": "1809",
+    "emoji": "🇩🇴"
+  },
+  {
+    "id": "62",
+    "sortname": "TP",
+    "name": "East Timor",
+    "phonecode": "670",
+    "emoji": "🇹🇱"
+  },
+  {
+    "id": "63",
+    "sortname": "EC",
+    "name": "Ecuador",
+    "phonecode": "593",
+    "emoji": "🇪🇨"
+  },
+  {
+    "id": "64",
+    "sortname": "EG",
+    "name": "Egypt",
+    "phonecode": "20",
+    "emoji": "🇪🇬"
+  },
+  {
+    "id": "65",
+    "sortname": "SV",
+    "name": "El Salvador",
+    "phonecode": "503",
+    "emoji": "🇸🇻"
+  },
+  {
+    "id": "66",
+    "sortname": "GQ",
+    "name": "Equatorial Guinea",
+    "phonecode": "240",
+    "emoji": "🇬🇶"
+  },
+  {
+    "id": "67",
+    "sortname": "ER",
+    "name": "Eritrea",
+    "phonecode": "291",
+    "emoji": "🇪🇷"
+  },
+  {
+    "id": "68",
+    "sortname": "EE",
+    "name": "Estonia",
+    "phonecode": "372",
+    "emoji": "🇪🇪"
+  },
+  {
+    "id": "69",
+    "sortname": "ET",
+    "name": "Ethiopia",
+    "phonecode": "251",
+    "emoji": "🇪🇹"
+  },
+  {
+    "id": "70",
+    "sortname": "XA",
+    "name": "External Territories of Australia",
+    "phonecode": "61",
+    "emoji": "🇦🇺"
+  },
+  {
+    "id": "71",
+    "sortname": "FK",
+    "name": "Falkland Islands",
+    "phonecode": "500",
+    "emoji": "🇫🇰"
+  },
+  {
+    "id": "72",
+    "sortname": "FO",
+    "name": "Faroe Islands",
+    "phonecode": "298",
+    "emoji": "🇫🇴"
+  },
+  {
+    "id": "73",
+    "sortname": "FJ",
+    "name": "Fiji Islands",
+    "phonecode": "679",
+    "emoji": "🇫🇯"
+  },
+  {
+    "id": "74",
+    "sortname": "FI",
+    "name": "Finland",
+    "phonecode": "358",
+    "emoji": "🇫🇮"
+  },
+  {
+    "id": "75",
+    "sortname": "FR",
+    "name": "France",
+    "phonecode": "33",
+    "emoji": "🇫🇷"
+  },
+  {
+    "id": "76",
+    "sortname": "GF",
+    "name": "French Guiana",
+    "phonecode": "594",
+    "emoji": "🇬🇫"
+  },
+  {
+    "id": "77",
+    "sortname": "PF",
+    "name": "French Polynesia",
+    "phonecode": "689",
+    "emoji": "🇵🇫"
+  },
+  {
+    "id": "78",
+    "sortname": "TF",
+    "name": "French Southern Territories",
+    "phonecode": "0",
+    "emoji": "🇹🇫"
+  },
+  {
+    "id": "79",
+    "sortname": "GA",
+    "name": "Gabon",
+    "phonecode": "241",
+    "emoji": "🇬🇦"
+  },
+  {
+    "id": "80",
+    "sortname": "GM",
+    "name": "Gambia The",
+    "phonecode": "220",
+    "emoji": "🇬🇲"
+  },
+  {
+    "id": "81",
+    "sortname": "GE",
+    "name": "Georgia",
+    "phonecode": "995",
+    "emoji": "🇬🇪"
+  },
+  {
+    "id": "82",
+    "sortname": "DE",
+    "name": "Germany",
+    "phonecode": "49",
+    "emoji": "🇩🇪"
+  },
+  {
+    "id": "83",
+    "sortname": "GH",
+    "name": "Ghana",
+    "phonecode": "233",
+    "emoji": "🇬🇭"
+  },
+  {
+    "id": "84",
+    "sortname": "GI",
+    "name": "Gibraltar",
+    "phonecode": "350",
+    "emoji": "🇬🇮"
+  },
+  {
+    "id": "85",
+    "sortname": "GR",
+    "name": "Greece",
+    "phonecode": "30",
+    "emoji": "🇬🇷"
+  },
+  {
+    "id": "86",
+    "sortname": "GL",
+    "name": "Greenland",
+    "phonecode": "299",
+    "emoji": "🇬🇱"
+  },
+  {
+    "id": "87",
+    "sortname": "GD",
+    "name": "Grenada",
+    "phonecode": "1473",
+    "emoji": "🇬🇩"
+  },
+  {
+    "id": "88",
+    "sortname": "GP",
+    "name": "Guadeloupe",
+    "phonecode": "590",
+    "emoji": "🇬🇵"
+  },
+  {
+    "id": "89",
+    "sortname": "GU",
+    "name": "Guam",
+    "phonecode": "1671",
+    "emoji": "🇬🇺"
+  },
+  {
+    "id": "90",
+    "sortname": "GT",
+    "name": "Guatemala",
+    "phonecode": "502",
+    "emoji": "🇬🇹"
+  },
+  {
+    "id": "91",
+    "sortname": "XU",
+    "name": "Guernsey and Alderney",
+    "phonecode": "44",
+    "emoji": "🇬🇬"
+  },
+  {
+    "id": "92",
+    "sortname": "GN",
+    "name": "Guinea",
+    "phonecode": "224",
+    "emoji": "🇬🇳"
+  },
+  {
+    "id": "93",
+    "sortname": "GW",
+    "name": "Guinea-Bissau",
+    "phonecode": "245",
+    "emoji": "🇬🇼"
+  },
+  {
+    "id": "94",
+    "sortname": "GY",
+    "name": "Guyana",
+    "phonecode": "592",
+    "emoji": "🇬🇾"
+  },
+  {
+    "id": "95",
+    "sortname": "HT",
+    "name": "Haiti",
+    "phonecode": "509",
+    "emoji": "🇭🇹"
+  },
+  {
+    "id": "96",
+    "sortname": "HM",
+    "name": "Heard and McDonald Islands",
+    "phonecode": "0",
+    "emoji": "🇭🇲"
+  },
+  {
+    "id": "97",
+    "sortname": "HN",
+    "name": "Honduras",
+    "phonecode": "504",
+    "emoji": "🇭🇳"
+  },
+  {
+    "id": "98",
+    "sortname": "HK",
+    "name": "Hong Kong S.A.R.",
+    "phonecode": "852",
+    "emoji": "🇭🇰"
+  },
+  {
+    "id": "99",
+    "sortname": "HU",
+    "name": "Hungary",
+    "phonecode": "36",
+    "emoji": "🇭🇺"
+  },
+  {
+    "id": "100",
+    "sortname": "IS",
+    "name": "Iceland",
+    "phonecode": "354",
+    "emoji": "🇮🇸"
+  },
+  {
+    "id": "101",
+    "sortname": "IN",
+    "name": "India",
+    "phonecode": "91",
+    "emoji": "🇮🇳"
+  },
+  {
+    "id": "102",
+    "sortname": "ID",
+    "name": "Indonesia",
+    "phonecode": "62",
+    "emoji": "🇮🇩"
+  },
+  {
+    "id": "103",
+    "sortname": "IR",
+    "name": "Iran",
+    "phonecode": "98",
+    "emoji": "🇮🇷"
+  },
+  {
+    "id": "104",
+    "sortname": "IQ",
+    "name": "Iraq",
+    "phonecode": "964",
+    "emoji": "🇮🇶"
+  },
+  {
+    "id": "105",
+    "sortname": "IE",
+    "name": "Ireland",
+    "phonecode": "353",
+    "emoji": "🇮🇪"
+  },
+  {
+    "id": "107",
+    "sortname": "IT",
+    "name": "Italy",
+    "phonecode": "39",
+    "emoji": "🇮🇹"
+  },
+  {
+    "id": "108",
+    "sortname": "JM",
+    "name": "Jamaica",
+    "phonecode": "1876",
+    "emoji": "🇯🇲"
+  },
+  {
+    "id": "109",
+    "sortname": "JP",
+    "name": "Japan",
+    "phonecode": "81",
+    "emoji": "🇯🇵"
+  },
+  {
+    "id": "110",
+    "sortname": "XJ",
+    "name": "Jersey",
+    "phonecode": "44",
+    "emoji": "🇯🇪"
+  },
+  {
+    "id": "111",
+    "sortname": "JO",
+    "name": "Jordan",
+    "phonecode": "962",
+    "emoji": "🇯🇴"
+  },
+  {
+    "id": "112",
+    "sortname": "KZ",
+    "name": "Kazakhstan",
+    "phonecode": "7",
+    "emoji": "🇰🇿"
+  },
+  {
+    "id": "113",
+    "sortname": "KE",
+    "name": "Kenya",
+    "phonecode": "254",
+    "emoji": "🇰🇪"
+  },
+  {
+    "id": "114",
+    "sortname": "KI",
+    "name": "Kiribati",
+    "phonecode": "686",
+    "emoji": "🇰🇮"
+  },
+  {
+    "id": "115",
+    "sortname": "KP",
+    "name": "Korea North",
+    "phonecode": "850",
+    "emoji": "🇰🇵"
+  },
+  {
+    "id": "116",
+    "sortname": "KR",
+    "name": "Korea South",
+    "phonecode": "82",
+    "emoji": "🇰🇷"
+  },
+  {
+    "id": "117",
+    "sortname": "KW",
+    "name": "Kuwait",
+    "phonecode": "965",
+    "emoji": "🇰🇼"
+  },
+  {
+    "id": "118",
+    "sortname": "KG",
+    "name": "Kyrgyzstan",
+    "phonecode": "996",
+    "emoji": "🇰🇬"
+  },
+  {
+    "id": "119",
+    "sortname": "LA",
+    "name": "Laos",
+    "phonecode": "856",
+    "emoji": "🇱🇦"
+  },
+  {
+    "id": "120",
+    "sortname": "LV",
+    "name": "Latvia",
+    "phonecode": "371",
+    "emoji": "🇱🇻"
+  },
+  {
+    "id": "121",
+    "sortname": "LB",
+    "name": "Lebanon",
+    "phonecode": "961",
+    "emoji": "🇱🇧"
+  },
+  {
+    "id": "122",
+    "sortname": "LS",
+    "name": "Lesotho",
+    "phonecode": "266",
+    "emoji": "🇱🇸"
+  },
+  {
+    "id": "123",
+    "sortname": "LR",
+    "name": "Liberia",
+    "phonecode": "231",
+    "emoji": "🇱🇷"
+  },
+  {
+    "id": "124",
+    "sortname": "LY",
+    "name": "Libya",
+    "phonecode": "218",
+    "emoji": "🇱🇾"
+  },
+  {
+    "id": "125",
+    "sortname": "LI",
+    "name": "Liechtenstein",
+    "phonecode": "423",
+    "emoji": "🇱🇮"
+  },
+  {
+    "id": "126",
+    "sortname": "LT",
+    "name": "Lithuania",
+    "phonecode": "370",
+    "emoji": "🇱🇹"
+  },
+  {
+    "id": "127",
+    "sortname": "LU",
+    "name": "Luxembourg",
+    "phonecode": "352",
+    "emoji": "🇱🇺"
+  },
+  {
+    "id": "128",
+    "sortname": "MO",
+    "name": "Macau S.A.R.",
+    "phonecode": "853",
+    "emoji": "🇲🇴"
+  },
+  {
+    "id": "129",
+    "sortname": "MK",
+    "name": "Macedonia",
+    "phonecode": "389",
+    "emoji": "🇲🇰"
+  },
+  {
+    "id": "130",
+    "sortname": "MG",
+    "name": "Madagascar",
+    "phonecode": "261",
+    "emoji": "🇲🇬"
+  },
+  {
+    "id": "131",
+    "sortname": "MW",
+    "name": "Malawi",
+    "phonecode": "265",
+    "emoji": "🇲🇼"
+  },
+  {
+    "id": "132",
+    "sortname": "MY",
+    "name": "Malaysia",
+    "phonecode": "60",
+    "emoji": "🇲🇾"
+  },
+  {
+    "id": "133",
+    "sortname": "MV",
+    "name": "Maldives",
+    "phonecode": "960",
+    "emoji": "🇲🇻"
+  },
+  {
+    "id": "134",
+    "sortname": "ML",
+    "name": "Mali",
+    "phonecode": "223",
+    "emoji": "🇲🇱"
+  },
+  {
+    "id": "135",
+    "sortname": "MT",
+    "name": "Malta",
+    "phonecode": "356",
+    "emoji": "🇲🇹"
+  },
+  {
+    "id": "136",
+    "sortname": "XM",
+    "name": "Man (Isle of)",
+    "phonecode": "44",
+    "emoji": "🇮🇲"
+  },
+  {
+    "id": "137",
+    "sortname": "MH",
+    "name": "Marshall Islands",
+    "phonecode": "692",
+    "emoji": "🇲🇭"
+  },
+  {
+    "id": "138",
+    "sortname": "MQ",
+    "name": "Martinique",
+    "phonecode": "596",
+    "emoji": "🇲🇶"
+  },
+  {
+    "id": "139",
+    "sortname": "MR",
+    "name": "Mauritania",
+    "phonecode": "222",
+    "emoji": "🇲🇷"
+  },
+  {
+    "id": "140",
+    "sortname": "MU",
+    "name": "Mauritius",
+    "phonecode": "230",
+    "emoji": "🇲🇺"
+  },
+  {
+    "id": "141",
+    "sortname": "YT",
+    "name": "Mayotte",
+    "phonecode": "269",
+    "emoji": "🇾🇹"
+  },
+  {
+    "id": "142",
+    "sortname": "MX",
+    "name": "Mexico",
+    "phonecode": "52",
+    "emoji": "🇲🇽"
+  },
+  {
+    "id": "143",
+    "sortname": "FM",
+    "name": "Micronesia",
+    "phonecode": "691",
+    "emoji": "🇫🇲"
+  },
+  {
+    "id": "144",
+    "sortname": "MD",
+    "name": "Moldova",
+    "phonecode": "373",
+    "emoji": "🇲🇩"
+  },
+  {
+    "id": "145",
+    "sortname": "MC",
+    "name": "Monaco",
+    "phonecode": "377",
+    "emoji": "🇲🇨"
+  },
+  {
+    "id": "146",
+    "sortname": "MN",
+    "name": "Mongolia",
+    "phonecode": "976",
+    "emoji": "🇲🇳"
+  },
+  {
+    "id": "147",
+    "sortname": "MS",
+    "name": "Montserrat",
+    "phonecode": "1664",
+    "emoji": "🇲🇸"
+  },
+  {
+    "id": "148",
+    "sortname": "MA",
+    "name": "Morocco",
+    "phonecode": "212",
+    "emoji": "🇲🇦"
+  },
+  {
+    "id": "149",
+    "sortname": "MZ",
+    "name": "Mozambique",
+    "phonecode": "258",
+    "emoji": "🇲🇿"
+  },
+  {
+    "id": "150",
+    "sortname": "MM",
+    "name": "Myanmar",
+    "phonecode": "95",
+    "emoji": "🇲🇲"
+  },
+  {
+    "id": "151",
+    "sortname": "NA",
+    "name": "Namibia",
+    "phonecode": "264",
+    "emoji": "🇳🇦"
+  },
+  {
+    "id": "152",
+    "sortname": "NR",
+    "name": "Nauru",
+    "phonecode": "674",
+    "emoji": "🇳🇷"
+  },
+  {
+    "id": "153",
+    "sortname": "NP",
+    "name": "Nepal",
+    "phonecode": "977",
+    "emoji": "🇳🇵"
+  },
+  {
+    "id": "154",
+    "sortname": "AN",
+    "name": "Netherlands Antilles",
+    "phonecode": "599",
+    "emoji": "🇦🇳"
+  },
+  {
+    "id": "155",
+    "sortname": "NL",
+    "name": "Netherlands The",
+    "phonecode": "31",
+    "emoji": "🇳🇱"
+  },
+  {
+    "id": "156",
+    "sortname": "NC",
+    "name": "New Caledonia",
+    "phonecode": "687",
+    "emoji": "🇳🇨"
+  },
+  {
+    "id": "157",
+    "sortname": "NZ",
+    "name": "New Zealand",
+    "phonecode": "64",
+    "emoji": "🇳🇿"
+  },
+  {
+    "id": "158",
+    "sortname": "NI",
+    "name": "Nicaragua",
+    "phonecode": "505",
+    "emoji": "🇳🇮"
+  },
+  {
+    "id": "159",
+    "sortname": "NE",
+    "name": "Niger",
+    "phonecode": "227",
+    "emoji": "🇳🇪"
+  },
+  {
+    "id": "160",
+    "sortname": "NG",
+    "name": "Nigeria",
+    "phonecode": "234",
+    "emoji": "🇳🇬"
+  },
+  {
+    "id": "161",
+    "sortname": "NU",
+    "name": "Niue",
+    "phonecode": "683",
+    "emoji": "🇳🇺"
+  },
+  {
+    "id": "162",
+    "sortname": "NF",
+    "name": "Norfolk Island",
+    "phonecode": "672",
+    "emoji": "🇳🇫"
+  },
+  {
+    "id": "163",
+    "sortname": "MP",
+    "name": "Northern Mariana Islands",
+    "phonecode": "1670",
+    "emoji": "🇲🇵"
+  },
+  {
+    "id": "164",
+    "sortname": "NO",
+    "name": "Norway",
+    "phonecode": "47",
+    "emoji": "🇳🇴"
+  },
+  {
+    "id": "165",
+    "sortname": "OM",
+    "name": "Oman",
+    "phonecode": "968",
+    "emoji": "🇴🇲"
+  },
+  {
+    "id": "166",
+    "sortname": "PK",
+    "name": "Pakistan",
+    "phonecode": "92",
+    "emoji": "🇵🇰"
+  },
+  {
+    "id": "167",
+    "sortname": "PW",
+    "name": "Palau",
+    "phonecode": "680",
+    "emoji": "🇵🇼"
+  },
+  {
+    "id": "168",
+    "sortname": "PS",
+    "name": "Palestinian Territory Occupied",
+    "phonecode": "970",
+    "emoji": "🇵🇸"
+  },
+  {
+    "id": "169",
+    "sortname": "PA",
+    "name": "Panama",
+    "phonecode": "507",
+    "emoji": "🇵🇦"
+  },
+  {
+    "id": "170",
+    "sortname": "PG",
+    "name": "Papua new Guinea",
+    "phonecode": "675",
+    "emoji": "🇵🇬"
+  },
+  {
+    "id": "171",
+    "sortname": "PY",
+    "name": "Paraguay",
+    "phonecode": "595",
+    "emoji": "🇵🇾"
+  },
+  {
+    "id": "172",
+    "sortname": "PE",
+    "name": "Peru",
+    "phonecode": "51",
+    "emoji": "🇵🇪"
+  },
+  {
+    "id": "173",
+    "sortname": "PH",
+    "name": "Philippines",
+    "phonecode": "63",
+    "emoji": "🇵🇭"
+  },
+  {
+    "id": "174",
+    "sortname": "PN",
+    "name": "Pitcairn Island",
+    "phonecode": "0",
+    "emoji": "🇵🇳"
+  },
+  {
+    "id": "175",
+    "sortname": "PL",
+    "name": "Poland",
+    "phonecode": "48",
+    "emoji": "🇵🇱"
+  },
+  {
+    "id": "176",
+    "sortname": "PT",
+    "name": "Portugal",
+    "phonecode": "351",
+    "emoji": "🇵🇹"
+  },
+  {
+    "id": "177",
+    "sortname": "PR",
+    "name": "Puerto Rico",
+    "phonecode": "1787",
+    "emoji": "🇵🇷"
+  },
+  {
+    "id": "178",
+    "sortname": "QA",
+    "name": "Qatar",
+    "phonecode": "974",
+    "emoji": "🇶🇦"
+  },
+  {
+    "id": "179",
+    "sortname": "RE",
+    "name": "Reunion",
+    "phonecode": "262",
+    "emoji": "🇷🇪"
+  },
+  {
+    "id": "180",
+    "sortname": "RO",
+    "name": "Romania",
+    "phonecode": "40",
+    "emoji": "🇷🇴"
+  },
+  {
+    "id": "181",
+    "sortname": "RU",
+    "name": "Russia",
+    "phonecode": "70",
+    "emoji": "🇷🇺"
+  },
+  {
+    "id": "182",
+    "sortname": "RW",
+    "name": "Rwanda",
+    "phonecode": "250",
+    "emoji": "🇷🇼"
+  },
+  {
+    "id": "183",
+    "sortname": "SH",
+    "name": "Saint Helena",
+    "phonecode": "290",
+    "emoji": "🇸🇭"
+  },
+  {
+    "id": "184",
+    "sortname": "KN",
+    "name": "Saint Kitts And Nevis",
+    "phonecode": "1869",
+    "emoji": "🇰🇳"
+  },
+  {
+    "id": "185",
+    "sortname": "LC",
+    "name": "Saint Lucia",
+    "phonecode": "1758",
+    "emoji": "🇱🇨"
+  },
+  {
+    "id": "186",
+    "sortname": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "phonecode": "508",
+    "emoji": "🇵🇲"
+  },
+  {
+    "id": "187",
+    "sortname": "VC",
+    "name": "Saint Vincent And The Grenadines",
+    "phonecode": "1784",
+    "emoji": "🇻🇨"
+  },
+  {
+    "id": "188",
+    "sortname": "WS",
+    "name": "Samoa",
+    "phonecode": "684",
+    "emoji": "🇼🇸"
+  },
+  {
+    "id": "189",
+    "sortname": "SM",
+    "name": "San Marino",
+    "phonecode": "378",
+    "emoji": "🇸🇲"
+  },
+  {
+    "id": "190",
+    "sortname": "ST",
+    "name": "Sao Tome and Principe",
+    "phonecode": "239",
+    "emoji": "🇸🇹"
+  },
+  {
+    "id": "191",
+    "sortname": "SA",
+    "name": "Saudi Arabia",
+    "phonecode": "966",
+    "emoji": "🇸🇦"
+  },
+  {
+    "id": "192",
+    "sortname": "SN",
+    "name": "Senegal",
+    "phonecode": "221",
+    "emoji": "🇸🇳"
+  },
+  {
+    "id": "193",
+    "sortname": "RS",
+    "name": "Serbia",
+    "phonecode": "381",
+    "emoji": "🇷🇸"
+  },
+  {
+    "id": "194",
+    "sortname": "SC",
+    "name": "Seychelles",
+    "phonecode": "248",
+    "emoji": "🇸🇨"
+  },
+  {
+    "id": "195",
+    "sortname": "SL",
+    "name": "Sierra Leone",
+    "phonecode": "232",
+    "emoji": "🇸🇱"
+  },
+  {
+    "id": "196",
+    "sortname": "SG",
+    "name": "Singapore",
+    "phonecode": "65",
+    "emoji": "🇸🇬"
+  },
+  {
+    "id": "197",
+    "sortname": "SK",
+    "name": "Slovakia",
+    "phonecode": "421",
+    "emoji": "🇸🇰"
+  },
+  {
+    "id": "198",
+    "sortname": "SI",
+    "name": "Slovenia",
+    "phonecode": "386",
+    "emoji": "🇸🇮"
+  },
+  {
+    "id": "199",
+    "sortname": "XG",
+    "name": "Smaller Territories of the UK",
+    "phonecode": "44",
+    "emoji": "🇬🇧"
+  },
+  {
+    "id": "200",
+    "sortname": "SB",
+    "name": "Solomon Islands",
+    "phonecode": "677",
+    "emoji": "🇸🇧"
+  },
+  {
+    "id": "201",
+    "sortname": "SO",
+    "name": "Somalia",
+    "phonecode": "252",
+    "emoji": "🇸🇴"
+  },
+  {
+    "id": "202",
+    "sortname": "ZA",
+    "name": "South Africa",
+    "phonecode": "27",
+    "emoji": "🇿🇦"
+  },
+  {
+    "id": "203",
+    "sortname": "GS",
+    "name": "South Georgia",
+    "phonecode": "0",
+    "emoji": "🇬🇸"
+  },
+  {
+    "id": "204",
+    "sortname": "SS",
+    "name": "South Sudan",
+    "phonecode": "211",
+    "emoji": "🇸🇸"
+  },
+  {
+    "id": "205",
+    "sortname": "ES",
+    "name": "Spain",
+    "phonecode": "34",
+    "emoji": "🇪🇸"
+  },
+  {
+    "id": "206",
+    "sortname": "LK",
+    "name": "Sri Lanka",
+    "phonecode": "94",
+    "emoji": "🇱🇰"
+  },
+  {
+    "id": "207",
+    "sortname": "SD",
+    "name": "Sudan",
+    "phonecode": "249",
+    "emoji": "🇸🇩"
+  },
+  {
+    "id": "208",
+    "sortname": "SR",
+    "name": "Suriname",
+    "phonecode": "597",
+    "emoji": "🇸🇷"
+  },
+  {
+    "id": "209",
+    "sortname": "SJ",
+    "name": "Svalbard And Jan Mayen Islands",
+    "phonecode": "47",
+    "emoji": "🇸🇯"
+  },
+  {
+    "id": "210",
+    "sortname": "SZ",
+    "name": "Swaziland",
+    "phonecode": "268",
+    "emoji": "🇸🇿"
+  },
+  {
+    "id": "211",
+    "sortname": "SE",
+    "name": "Sweden",
+    "phonecode": "46",
+    "emoji": "🇸🇪"
+  },
+  {
+    "id": "212",
+    "sortname": "CH",
+    "name": "Switzerland",
+    "phonecode": "41",
+    "emoji": "🇨🇭"
+  },
+  {
+    "id": "213",
+    "sortname": "SY",
+    "name": "Syria",
+    "phonecode": "963",
+    "emoji": "🇸🇾"
+  },
+  {
+    "id": "214",
+    "sortname": "TW",
+    "name": "Taiwan",
+    "phonecode": "886",
+    "emoji": "🇹🇼"
+  },
+  {
+    "id": "215",
+    "sortname": "TJ",
+    "name": "Tajikistan",
+    "phonecode": "992",
+    "emoji": "🇹🇯"
+  },
+  {
+    "id": "216",
+    "sortname": "TZ",
+    "name": "Tanzania",
+    "phonecode": "255",
+    "emoji": "🇹🇿"
+  },
+  {
+    "id": "217",
+    "sortname": "TH",
+    "name": "Thailand",
+    "phonecode": "66",
+    "emoji": "🇹🇭"
+  },
+  {
+    "id": "218",
+    "sortname": "TG",
+    "name": "Togo",
+    "phonecode": "228",
+    "emoji": "🇹🇬"
+  },
+  {
+    "id": "219",
+    "sortname": "TK",
+    "name": "Tokelau",
+    "phonecode": "690",
+    "emoji": "🇹🇰"
+  },
+  {
+    "id": "220",
+    "sortname": "TO",
+    "name": "Tonga",
+    "phonecode": "676",
+    "emoji": "🇹🇴"
+  },
+  {
+    "id": "221",
+    "sortname": "TT",
+    "name": "Trinidad And Tobago",
+    "phonecode": "1868",
+    "emoji": "🇹🇹"
+  },
+  {
+    "id": "222",
+    "sortname": "TN",
+    "name": "Tunisia",
+    "phonecode": "216",
+    "emoji": "🇹🇳"
+  },
+  {
+    "id": "223",
+    "sortname": "TR",
+    "name": "Turkey",
+    "phonecode": "90",
+    "emoji": "🇹🇷"
+  },
+  {
+    "id": "224",
+    "sortname": "TM",
+    "name": "Turkmenistan",
+    "phonecode": "7370",
+    "emoji": "🇹🇲"
+  },
+  {
+    "id": "225",
+    "sortname": "TC",
+    "name": "Turks And Caicos Islands",
+    "phonecode": "1649",
+    "emoji": "🇹🇨"
+  },
+  {
+    "id": "226",
+    "sortname": "TV",
+    "name": "Tuvalu",
+    "phonecode": "688",
+    "emoji": "🇹🇻"
+  },
+  {
+    "id": "227",
+    "sortname": "UG",
+    "name": "Uganda",
+    "phonecode": "256",
+    "emoji": "🇺🇬"
+  },
+  {
+    "id": "228",
+    "sortname": "UA",
+    "name": "Ukraine",
+    "phonecode": "380",
+    "emoji": "🇺🇦"
+  },
+  {
+    "id": "229",
+    "sortname": "AE",
+    "name": "United Arab Emirates",
+    "phonecode": "971",
+    "emoji": "🇦🇪"
+  },
+  {
+    "id": "230",
+    "sortname": "GB",
+    "name": "United Kingdom",
+    "phonecode": "44",
+    "emoji": "🇬🇧"
+  },
+  {
+    "id": "231",
+    "sortname": "US",
+    "name": "United States",
+    "phonecode": "1",
+    "emoji": "🇺🇸"
+  },
+  {
+    "id": "232",
+    "sortname": "UM",
+    "name": "United States Minor Outlying Islands",
+    "phonecode": "1",
+    "emoji": "🇺🇸"
+  },
+  {
+    "id": "233",
+    "sortname": "UY",
+    "name": "Uruguay",
+    "phonecode": "598",
+    "emoji": "🇺🇾"
+  },
+  {
+    "id": "234",
+    "sortname": "UZ",
+    "name": "Uzbekistan",
+    "phonecode": "998",
+    "emoji": "🇺🇿"
+  },
+  {
+    "id": "235",
+    "sortname": "VU",
+    "name": "Vanuatu",
+    "phonecode": "678",
+    "emoji": "🇻🇺"
+  },
+  {
+    "id": "236",
+    "sortname": "VA",
+    "name": "Vatican City State (Holy See)",
+    "phonecode": "39",
+    "emoji": "🇻🇦"
+  },
+  {
+    "id": "237",
+    "sortname": "VE",
+    "name": "Venezuela",
+    "phonecode": "58",
+    "emoji": "🇻🇪"
+  },
+  {
+    "id": "238",
+    "sortname": "VN",
+    "name": "Vietnam",
+    "phonecode": "84",
+    "emoji": "🇻🇳"
+  },
+  {
+    "id": "239",
+    "sortname": "VG",
+    "name": "Virgin Islands (British)",
+    "phonecode": "1284",
+    "emoji": "🇻🇬"
+  },
+  {
+    "id": "240",
+    "sortname": "VI",
+    "name": "Virgin Islands (US)",
+    "phonecode": "1340",
+    "emoji": "🇻🇮"
+  },
+  {
+    "id": "241",
+    "sortname": "WF",
+    "name": "Wallis And Futuna Islands",
+    "phonecode": "681",
+    "emoji": "🇼🇫"
+  },
+  {
+    "id": "242",
+    "sortname": "EH",
+    "name": "Western Sahara",
+    "phonecode": "212",
+    "emoji": "🇪🇭"
+  },
+  {
+    "id": "243",
+    "sortname": "YE",
+    "name": "Yemen",
+    "phonecode": "967",
+    "emoji": "🇾🇪"
+  },
+  {
+    "id": "244",
+    "sortname": "YU",
+    "name": "Yugoslavia",
+    "phonecode": "38",
+    "emoji": "🇷🇸"
+  },
+  {
+    "id": "245",
+    "sortname": "ZM",
+    "name": "Zambia",
+    "phonecode": "260",
+    "emoji": "🇿🇲"
+  },
+  {
+    "id": "246",
+    "sortname": "ZW",
+    "name": "Zimbabwe",
+    "phonecode": "263",
+    "emoji": "🇿🇼"
+  }
+]
