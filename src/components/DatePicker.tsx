@@ -80,6 +80,7 @@ const styles = StyleSheet.create({
   buttonText: {
     fontSize: 14,
     lineHeight: 16.8,
+    color: 'black',
   },
   icon: {
     width: 20,

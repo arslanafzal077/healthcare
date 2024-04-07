@@ -7,7 +7,7 @@ import {
   ImageSourcePropType,
   Dimensions,
 } from 'react-native';
-const {width, height} = Dimensions.get('window');
+const {width} = Dimensions.get('window');
 interface HeaderProps {
   title: string;
   icon: ImageSourcePropType;
@@ -19,10 +19,12 @@ const IndexesCard: React.FC<HeaderProps> = ({title, icon, value, unit}) => {
   return (
     <View style={styles.container}>
       <View style={styles.cHeader}>
-        <Text style={styles.cHeaderTitle}>{title}</Text>
+        <Text allowFontScaling={false} style={styles.cHeaderTitle}>
+          {title}
+        </Text>
         <Image source={icon} style={styles.icon} />
       </View>
-      <Text style={styles.value}>
+      <Text allowFontScaling={false} style={styles.value}>
         {value + ' '}
         <Text style={styles.unit}>{unit}</Text>
       </Text>
@@ -64,14 +66,12 @@ const styles = StyleSheet.create({
   },
   value: {
     fontSize: 32,
-    lineHeight: 38.4,
     fontWeight: '500',
     textAlignVertical: 'center',
     marginTop: 8,
   },
   unit: {
     fontSize: 14,
-    lineHeight: 20,
   },
 });
 

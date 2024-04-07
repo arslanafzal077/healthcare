@@ -152,7 +152,7 @@ const SignupScreen: React.FC = () => {
                 </View>
                 <CustomButton
                   testID={'signup-button'}
-                  onPress={() => handleSubmit}
+                  onPress={handleSubmit}
                   title={'Sign Up'}
                   isLoading={isLoading}
                   containerStyle={styles.btn}
@@ -188,6 +188,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   btn: {
+    marginBottom: 20,
     borderRadius: 30,
     paddingHorizontal: 30,
     alignSelf: 'center',
