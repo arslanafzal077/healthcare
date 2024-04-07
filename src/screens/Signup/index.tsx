@@ -50,7 +50,7 @@ const SignupScreen: React.FC = () => {
     // Simulating signup request
     setTimeout(() => {
       setIsLoading(false);
-      navigation.navigate('Home');
+      navigation.navigate('HomeTabs');
     }, 2000);
   };
 
@@ -152,7 +152,7 @@ const SignupScreen: React.FC = () => {
                 </View>
                 <CustomButton
                   testID={'signup-button'}
-                  onPress={handleSubmit}
+                  onPress={() => handleSubmit}
                   title={'Sign Up'}
                   isLoading={isLoading}
                   containerStyle={styles.btn}
